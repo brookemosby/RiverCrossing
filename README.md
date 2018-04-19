@@ -1,0 +1,2 @@
+# RiverCrossing
+Math 438 Final. The river crossing problem is usually a problem of crossing a straight river, with changing water flow across the river. It is a problem without a fixed end point. We suggest a modification for this problem so that there is a fixed initial point and ending point. At the same time, the problem is modified by not having to get to the other shore, but to end in the same shore but after a very close turn of the river. The problem is to take the optimal path to take on the river while being constraint with a bound on one side of the river.
